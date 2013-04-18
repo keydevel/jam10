@@ -1,5 +1,4 @@
+Jamendo App Contest  2013
+=========================
 
-Jamendo App Contest  20013
-==========================
-
-Jamendo BlackBerry 10 App.
+Jamendo BlackBerry 10 App
