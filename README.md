@@ -1,4 +1,5 @@
-Jamendo App Contest  2013
-=========================
+Jamendo App Contest
+===================
+
 
 Jamendo BlackBerry 10 App
